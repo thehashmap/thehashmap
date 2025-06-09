@@ -9,7 +9,7 @@
 
 👯 I’m looking to collaborate on **Web3 projects**<br> -->
 
-📫 How to reach me **nikhilkumar9320@gmail.com**<br>
+📫 How to reach me **nikhil.kumar.cer19@iitbhu.ac.in**<br>
 
 💬 Ask me about anything<br>
 <br>
