@@ -13,8 +13,7 @@
 
 ### 🧩 About Me
 - 💻 Backend Engineer building large-scale, real-time systems for trade execution
-- 🧩 4+ years of programming experience
-- 🏆 1st place winner at company-wide hackathon
+- 🧩 4+ years of programming experience (3x intern/freelance, 1x full-time)
 - ⚙️ Hands-on experience with **Java, Spring Boot, Kafka, PostgreSQL, React**
 - 🧠 Passionate about **systems design**, **distributed computing**, and **developer tools**
 
